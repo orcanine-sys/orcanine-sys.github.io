@@ -21,9 +21,9 @@ status: learning
 bio: just someone trying to learn lots of things
 
 #interests:
-- Artificial Intelligence
-- Bayesian Spatiotemporal Modeling
-- RLHF
+# - Artificial Intelligence
+# - Bayesian Spatiotemporal Modeling
+# - RLHF
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -37,9 +37,9 @@ social:
     icon_pack: fab
     link: https://x.com/orcanine_sys
 # Uncomment below for Github link
-- icon: github
- icon_pack: fab
- link: https://github.com/orcanine-sys
+# - icon: github
+#  icon_pack: fab
+#  link: https://github.com/orcanine-sys
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
