@@ -1,15 +1,15 @@
 ---
 # Display name
-title: Orcanine
+title: 'Orcanine'
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: ai/ml/ds enthusiast
+role: 'ai/ml/ds enthusiast'
 
 # Status emoji
-status: learning
+status: 'learning'
   icon: 📓📝
 
 # Organizations/Affiliations
@@ -18,7 +18,7 @@ status: learning
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: just someone trying to learn lots of things
+bio: 'just someone trying to learn lots of things'
 
 #interests:
 # - Artificial Intelligence
